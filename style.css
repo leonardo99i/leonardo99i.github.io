@@ -1,0 +1,34 @@
+.avatar{
+    width: 100px;
+    border-radius: 30px;
+}
+
+.user{
+    padding-top: 10px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #fff;
+    padding-bottom: 10px;
+    border-radius: 0px 0px 40px 0px;
+}
+
+.user .title{
+    text-align: center;
+    width: 100%;
+}
+
+.user .title h1{
+    font-size: 1.1rem;
+    padding: 0px 0px;
+}
+
+.user .title p{
+    font-size: 9rem;
+    opacity: .6;
+    padding: 6px 10px;
+}
+
